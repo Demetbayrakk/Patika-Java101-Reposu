@@ -36,7 +36,7 @@ public class UcakBiletFiyatiHesapla {
             }
             indirimliTutar=indirimliTutar-tipIndirimi;
             System.out.print("Bilet normal fiyatı : "+normalTutar+"\nYaş indirim tutarı : "+yasIndirimi+"\nYolculuk Tipi İndirimi : "
-                    +tipIndirimi+"\n\nİndirimli Bilet Fiyatınız : "+indirimliTutar);
+                    +tipIndirimi+"\nİndirimli Bilet Fiyatınız : "+indirimliTutar);
 
         }else{
             System.out.print("Hatalı veri girdiniz!");
